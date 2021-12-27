@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "title": "MERN Stack",
+      "id": 1
+    },
+    {
+      "title": "sathya",
+      "id": 2
+    }
+  ]
+}
