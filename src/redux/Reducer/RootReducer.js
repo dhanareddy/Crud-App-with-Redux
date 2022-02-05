@@ -1,5 +1,5 @@
 import { combineReducers } from "redux";
 import PostReducers from "./PostReducer";
 
-let reducers = combineReducers({ PostReducers });
-export default reducers;
+let Reducers = combineReducers({ PostReducers });
+export default Reducers;
